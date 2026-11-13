@@ -22,7 +22,7 @@ Customers spend too much time waiting for food orders and face difficulties find
 
 ## Explore the interactive AAYA Hotel mobile app prototype:
 
-(https://www.figma.com/design/T3Nd9ZH6uXG9WNYuyGU0D6/aaya-kadai?node-id=0-1&t=KTHEcOJJKaOkdZSv-1 Guide me with the next step)
+(https://www.figma.com/design/T3Nd9ZH6uXG9WNYuyGU0D6/aaya-kadai?node-id=0-1&t=KTHEcOJJKaOkdZSv-1 )
 
 ## Project Screenshots
 
